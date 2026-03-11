@@ -1,8 +1,8 @@
 ---
 title: 第六节：用户和权限管理指令：请简述Linux权限划分的原则
 abbrlink: linux-permission-management-2026
-date: 2026-03-10T10:15:00
-updated: 2026-03-10T10:40:00
+date: 2026-03-10T21:15:00
+updated: 2026-03-10T21:40:00
 tags:
   - 操作系统
   - 学习
